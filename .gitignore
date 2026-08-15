@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+blog_cdn/
+blog_cdn
+.firebase/
 
 # Editor directories and files
 .vscode/*

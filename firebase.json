@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "also-aadi",
+    "public": "dist",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}

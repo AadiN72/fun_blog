@@ -1,12 +1,16 @@
 export const navItems = [
-  { label: "Info", href: "/" },
+  { label: "Info", href: "/info" },
   { label: "Projects", href: "/projects" },
   { label: "Blog", href: "/blog" },
   { label: "Guestbook", href: "/guestbook" },
 ];
 
 export const socialLinks = [
-  { label: "GitHub", href: "https://github.com/AadiN72", iconName: "GitHub" },
+  {
+    label: "GitHub",
+    href: "https://github.com/AadiN72/fun_blog",
+    iconName: "GitHub",
+  },
   {
     label: "Discord",
     href: "https://discord.com/users/ShadowNinja72",

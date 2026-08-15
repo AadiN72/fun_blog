@@ -9,6 +9,7 @@ export function BrandButton() {
       onClick={() => navigate("/")}
     >
       <span className="brand-mark">{"{A}"}</span>
+      <span className="brand-text">Aadi</span>
     </button>
   );
 }
